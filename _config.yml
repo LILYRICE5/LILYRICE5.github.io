@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lily Rice / Site Title"
+title                    : "Lily Rice"
 title_separator          : "-"
 name                     : &name "Lily Rice"
 description              : &description "personal description"
